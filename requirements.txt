@@ -13,7 +13,7 @@ click==8.1.7
 cloudpickle==3.0.0
 colorama==0.4.6
 comm==0.2.1
-Cython==3.0.8
+# Cython==3.0.8
 dateparser==1.2.0
 debugpy==1.8.0
 decorator==4.4.2
