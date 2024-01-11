@@ -138,5 +138,5 @@ wcwidth==0.2.13
 Werkzeug==3.0.1
 wrapt==1.14.1
 yarg==0.1.9
-# youtokentome==1.0.6
+youtokentome<=1.0.5
 zipp==3.17.0
